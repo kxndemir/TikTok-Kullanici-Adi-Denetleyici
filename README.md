@@ -14,8 +14,8 @@ Verilen kullanıcı adlarının boşta olup olmadığını denetler.
 ### Kullanım
 
 
-1. ZIP'i <a href="https://github.com/formalite/x/archive/refs/heads/main.zip">buradan indirin</a> ve ayıklayın.
-2. Gereksinimleri <a href="https://github.com/formalite/x/blob/main/gereksinimler.txt">indirin</a> ve komut istemcisine `pip install -r gereksinimler.txt` yazın.
+1. ZIP'i <a href="https://github.com/formalite/TikTok-Kullanici-Adi-Denetleyici/archive/refs/heads/main.zip">buradan indirin</a> ve ayıklayın.
+2. Gereksinimleri <a href="https://github.com/formalite/TikTok-Kullanici-Adi-Denetleyici/blob/main/gereksinimler.txt">indirin</a> ve komut istemcisine `pip install -r gereksinimler.txt` yazın.
 3. `kullanıcıadları.txt` dosyasına denetlenmesini istediğiniz kullanıcı adlarını girin.
 4. `çalıştır.bat`, `main.py` dosyasını çalıştıran ve istediğiniz miktarda denetlemenizi sağlayan bir dosyadır.
 5. Boşta olan tüm kullanıcı adları `Boşta.txt` dosyasında gözükür.
